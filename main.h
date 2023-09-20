@@ -20,7 +20,6 @@ int printf_address(va_list k);
 int printf_rotate(va_list op);
 int print_rev_str(va_list strings);
 int _isalpha(int i);
-int _puts(char *c);
 /**
 * struct x - handle specifier
 * @AspecifyA: specifier as d f c s etc
